@@ -8,7 +8,7 @@ const Home = () => {
   return (
     <Container>
       <Typography variant="h3" align="center" sx={{ marginTop: 4, marginBottom: 4, color: '#FFFFFF' }}>
-        Welcome to My Website
+        Procument Chatbot
       </Typography>
       
       <Container sx={{ display: 'flex', justifyContent: 'center' }}>
